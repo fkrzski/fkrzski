@@ -3,10 +3,9 @@
 
 namespace fkrzski;
 
-class Me extends Programmer
+class Me extends Developer
 {
-    public function getInformation(): array
-    {
+    public function getInformation(): array {
         return [
             'name' => 'Filip',
             'surname' => 'Krzyżanowski',
@@ -14,8 +13,7 @@ class Me extends Programmer
         ];
     }
 
-    public function getKnowledge(): array
-    {
+    public function getKnowledge(): array {
         return [
             Php::class,
             Laravel::class,
@@ -31,26 +29,23 @@ class Me extends Programmer
         ];
     }
 
-    public function getProjects(): array
-    {
+    public function getProjects(): array {
         return [
             'DeadByStats' => 'https://deadbystats.eu',
-            'Dotenv' => 'https://github.com/fkrzski/Dotenv'
+            'Dotenv' => 'https://github.com/fkrzski/Dotenv',
+            'RynekGPU' => 'https://rynekgpu.dmisiek.pl/'
         ];
     }
 }
 
-$me = new Me();
-
-foreach ($me->getProjectsAndSites() as $name => $link) { 
+foreach ((new Me())->getProjects() as $name => $link) {
     echo $name.': '.$link.'<br>';
 }
 
 // Output:
 ```
+
 DeadByStats: https://deadbystats.eu <br>
-Dotenv: https://github.com/fkrzski/Dotenv
-<!---
-fkrzski/fkrzski is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Dotenv: https://github.com/fkrzski/Dotenv <br>
+RynekGPU: https://rynekgpu.dmisiek.pl
+
