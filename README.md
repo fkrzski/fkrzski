@@ -51,6 +51,6 @@ Yes, that's me 😎
 
 ---
 
-###### &copy; 2024 Filip Krzyżanowski
+###### &copy; 2025 Filip Krzyżanowski
 
 </div>
