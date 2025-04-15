@@ -3,7 +3,7 @@
 ## 👋 Hello world! 🌍
 
 <samp>
-Hi, I'm Filip, a 22-year-old from Poland. 🚀 The main activity is programming. I focus on automation in projects, because who would want to do something manually, right? 🤖 Configuration without code changes? As much as possible! Well, unless you want to do 'rm -rf', that's another story. And tests? I write them more than comments in the code! It's important that the application doesn't suddenly fly off into space. 🌌 <br><br>
+Hi, I'm Filip, a 23-year-old from Poland. 🚀 The main activity is programming. I focus on automation in projects, because who would want to do something manually, right? 🤖 Configuration without code changes? As much as possible! Well, unless you want to do 'rm -rf', that's another story. And tests? I write them more than comments in the code! It's important that the application doesn't suddenly fly off into space. 🌌 <br><br>
 Yes, that's me 😎
 </samp>
 
