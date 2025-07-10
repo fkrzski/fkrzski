@@ -1,13 +1,16 @@
 <div style="text-align: center" align="center">
 
-## 👋 Hello world! 🌍
+## 👋 Hey there! 
 
-<samp>
-Hi, I'm Filip, a 23-year-old from Poland. 🚀 The main activity is programming. I focus on automation in projects, because who would want to do something manually, right? 🤖 Configuration without code changes? As much as possible! Well, unless you want to do 'rm -rf', that's another story. And tests? I write them more than comments in the code! It's important that the application doesn't suddenly fly off into space. 🌌 <br><br>
-Yes, that's me 😎
-</samp>
+**Mid PHP Developer** building and optimizing web applications that handle thousands of users. 
 
----
+Currently focused on **performance optimization**, **API integrations**, and **modernizing legacy systems**. I love solving complex technical challenges and turning slow queries into fast ones.
+
+**Side projects:** <br>
+[Dead by Stats](https://deadbystats.eu) from 200 to 15k+ monthly users <br>
+[Rynek GPU](https://rynekgpu.dmisiek.pl) serving the Polish PC hardware community.
+
+*"Why do something manually when you can automate it?"* 🤖
 
 ## 🛠️ Tech stack
 
@@ -46,8 +49,7 @@ Yes, that's me 😎
 ## Catch me here
 
 [![LinkedIn](https://img.shields.io/badge//in/fkrzski-143?style=for-the-badge&logo=linkedin&color=%230077B5&logoColor=0077B5&labelColor=black)](https://www.linkedin.com/in/fkrzski/)
-[![Discord](https://img.shields.io/badge/@fkrzski-143?style=for-the-badge&logo=discord&color=%235865F2&labelColor=black)
-](https://www.discordapp.com/users/359297842059149314)
+[![Discord](https://img.shields.io/badge/@fkrzski-143?style=for-the-badge&logo=discord&color=%235865F2&labelColor=black)](https://www.discordapp.com/users/359297842059149314)
 
 ---
 
